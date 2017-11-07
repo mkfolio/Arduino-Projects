@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FOD</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="turnON">Line Mode</string>
+    <string name="turnOFF">Manual Mode</string>
+</resources>
