@@ -29,7 +29,7 @@ void setup() {
 
 void loop() {
 //~~~ Servo Ultrasonic Start from 0 deg to 180 deg
-for (pos = 0; pos <= 180; pos+=1){
+while (pos = 0; pos <= 180; pos+=1){
     servoSonic.write(pos);
     delay(80);
     int long distance = calculateDistance();
@@ -54,7 +54,7 @@ for (pos = 0; pos <= 180; pos+=1){
       }
   }
 //~~~ Servo Ultrasonic Start from 180 deg to 0 deg
-for (pos = 180; pos >= 0; pos-=1){
+while (pos = 180; pos >= 0; pos-=1){
     servoSonic.write(pos);
     delay(80);
     int long distance = calculateDistance();
