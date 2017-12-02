@@ -3,7 +3,7 @@
 * FOD Line Follower bot
   
   Is a line follower robot capable to clean a debris inside of the line track,
-  using the robot's swiper powered by servo and sensed by ultrasonic sensor. The user can change it also in manual driving using android phone.
+  using the robot's swiper powered by servo and sensed by ultrasonic sensor. The user can change it also in a manual driving using android phone.
   
 * Attendance System
   
