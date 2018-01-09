@@ -7,7 +7,7 @@
   
 * Attendance System
   
-  This is my first major Arduino project, It is a basic attendance system using RFID,WIFI and SMS, The student use an RFID-TAG and automatically send the information of the student into database using php and mySql at the same time it will send an sms to the parents mobile phone.
+  This is my first major Arduino project, It is a basic attendance system using RFID,WIFI and SMS, The student use an RFID-TAG and automatically send the information of the student into database using php and mySql at the same time it will send a sms to the parents mobile phone.
   
   
   
